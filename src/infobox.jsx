@@ -1,4 +1,4 @@
-import "./infoBox.css";
+import "./infobox.css";
 import { Cloud, CloudRain, Wind, Sun, Droplets, CloudFog, Thermometer } from "lucide-react";
 
 export default function InfoBox({ info }) {
